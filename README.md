@@ -1,4 +1,4 @@
-<h1 align="center">Literature Quiz</h1>
+<h1 align="center">Literary Quiz: AI Challenge</h1>
 
 <h3>A fascinating quiz about world-famous writers</h3>
 
