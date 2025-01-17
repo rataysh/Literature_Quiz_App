@@ -4,10 +4,11 @@
 
 ![artyrchik11_stack_of_books_at_the_table_light_bulb_cute_light_c_f5d724fa-311d-4c45-9a33-db08d920edcb (2) (1)](https://user-images.githubusercontent.com/88318279/221254597-00b3a1cc-777c-46e0-a27d-4a32b84f7eba.png)
 
-## [Google Play](https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU)
+## [Google Play](https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU)  
 
-<a href="https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU" target="blank"><img align="center" src="https://lh3.googleusercontent.com/Mnn3W-HCNSJAYPqLSd4wHlgXRIfxNGuDc5Bh5bGcZbdhbVfRVi9pOGYJdS0bFBZ3908ovZWqrWu02lP1qDpOkmDVuqlBzn2griN9c3EvWeMDLRlx1MUF=s0" alt="https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU" height="50" width="80" /></a>
-</p>
+
+## [App Store](https://apps.apple.com/de/app/literary-quiz-ai-challenge/id6448072000)
+
 
 <h3>Literature Quiz App is an exciting mobile application that I've built using the FlutterFlow and Flutter. Firebase acts as the app's backend, providing authentication, database management, and cloud storage.
 
